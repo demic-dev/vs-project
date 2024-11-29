@@ -1,5 +1,8 @@
 # Link agli articoli sensazionalistici su cui fare fact-checking
 
+## Campione giochi 2024
+* https://docs.google.com/spreadsheets/d/1b06-SSuD8QjK8TZfS5VijFfSweNDI2kPymFMyQ400mg/edit?gid=0#gid=0
+
 ## Siti utili
 
 * https://www.thegamer.com/
