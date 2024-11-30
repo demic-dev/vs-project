@@ -7,16 +7,18 @@ S: la tabella è l'immagine "tabella_vendite_2024" (convertire in css con IA, se
 -Vendite giochi simili a concord (-|-|-|-|-)
 S: i giochi simili nel campione di partenza non sono abbastanza, devo selezionarne uno nuovo. Ho quasi tutti i dati.
 
--Vendite in rapporto alla valutazione: (X|-|-|-|-)
+-Vendite in rapporto alla valutazione: (X|X|-|-|-)
 S: abbiamo abbastanza dati nel campione, devo scegliere quali giochi prendere
 
 -Vendete in rapporto al prezzo (per genere) (-|-|-|-|-)
 S: stesso di due punti fa. devo allargare il campione per genere
 
--oscillazioni recensioni nel tempo (X|-|-|-|-)
-S: Ho un grafico per un gioco, ma ne vorrei sovrapporre diversi per visualizzare il trend. Li cerco
+-oscillazioni recensioni nei primi due mesi (X|X|-|-|-)
+S: Ho messo diversi grafici nella cartella "cambiamenti recensioni". HelldiversII ha forti fluttuazioni, ma gli altri no. La mia idea sarebbe di sovrapporli per mostrare ne la linearità nella seconda metà.
+S: il problema è che le lunghezze dei grafici nella cartella sono variabili, quindi bisognerebbe stretcharli per far combaciare la scala prima di sovrapporli. Spero che l'AI riesca a farlo.
 
--Vendite giochi per continente di origine (X|-|-|-|-)
+-Vendite giochi per continente di origine (X|X|-|-|-)
+S: "tabella_vendite-continente2024". Direi di fare sia un pie-chart che un area-chart, poi ti spiego come che ho un idea particolare.
 
 -Giochi Steam approvati in Cina (X|X|X|X|-)
 S: il grafico del sito è bello, possiamo ritoccarlo e usarlo
