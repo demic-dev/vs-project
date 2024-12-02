@@ -1,27 +1,29 @@
-Grafici da fare (dati trovati|dati strutturati|dati in css|dati visualizzati|definitivo)
+Grafici da fare (dati trovati|dati strutturati|dati in csv|dati visualizzati|definitivo)
 S: sta per "Stefano", sono i miei commenti
 
 -Vendite videogiochi 2024:  (X|X|X|X|-)
 S: fatto. mancano ritocchi
 
--Vendite giochi simili a concord (-|-|-|-|-)
+-Vendite giochi simili a concord (-|-|-|-|-) (M)
 S: i giochi simili nel campione di partenza non sono abbastanza, devo selezionarne uno nuovo. Ho quasi tutti i dati.
 
 -Vendite in rapporto alla valutazione: (X|X|X|X|-)
 S: ho i dati. Faccio io
 
--Vendete in rapporto al prezzo (per genere) (-|-|-|-|-)
+-Vendete in rapporto al prezzo (per genere) (-|-|-|-|-) (S)
 S: stesso di due punti fa. devo allargare il campione per genere
 
--oscillazioni recensioni nei primi due mesi (X|X|X|-|-)
+<<<<<<< Updated upstream
+-oscillazioni recensioni nei primi due mesi (X|X|X|-|-) (M)
 S: CSS mandati. prendi le prime 100 entry. gioco_TOTrecensioni.
 S: Helldivers 2 mostralo a parte, mìpoi sovrapponi tutti i grafici lasciando solo Helldivers colorato diverso
 
--Vendite giochi per continente di origine (X|X|-|-|-)
-S: Fa Michele, serve un grafico a torta con totale vendite e uno con il numero di giochi distinti in più
+-Vendite giochi per continente di origine (X|X|X|X|-) (M)
+M: la treemap non mi convince. neanche il piechart in realtà. devo cercare alternative. volendo i grafici sono nel file charts.ipynb
 
--Giochi Steam approvati in Cina (X|X|X|X|-)
+-Giochi Steam approvati in Cina (X|X|X|X|-) (M)
 S: il grafico del sito è bello, possiamo ritoccarlo e usarlo. Fa Michele
+M: link in links.md, sono importanti solamente le prime due categorie. Rifacciamo il grafico noi
 
 -incassi giochi mobile (-|-|-|-|)
 S: cerco io.
