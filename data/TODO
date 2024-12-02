@@ -13,9 +13,9 @@ S: abbiamo abbastanza dati nel campione, devo scegliere quali giochi prendere
 -Vendete in rapporto al prezzo (per genere) (-|-|-|-|-)
 S: stesso di due punti fa. devo allargare il campione per genere
 
--oscillazioni recensioni nei primi due mesi (X|X|-|-|-)
-S: Ho messo diversi grafici nella cartella "cambiamenti recensioni". HelldiversII ha forti fluttuazioni, ma gli altri no. La mia idea sarebbe di sovrapporli per mostrare ne la linearità nella seconda metà.
-S: il problema è che le lunghezze dei grafici nella cartella sono variabili, quindi bisognerebbe stretcharli per far combaciare la scala prima di sovrapporli. Spero che l'AI riesca a farlo.
+-oscillazioni recensioni nei primi due mesi (X|X|X|-|-)
+S: CSS mandati. prendi le prime 100 entry. gioco_TOTrecensioni.
+S: Helldivers 2 mostralo a parte, mìpoi sovrapponi tutti i grafici lasciando solo Helldivers colorato diverso
 
 -Vendite giochi per continente di origine (X|X|-|-|-)
 S: "tabella_vendite-continente2024". Direi di fare sia un pie-chart che un area-chart, poi ti spiego come che ho un idea particolare.
