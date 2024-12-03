@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2024-12-03T11:05:24.295462</dc:date>
+    <dc:date>2024-12-03T21:47:42.778676</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,93 +31,81 @@ z
   <g id="axes_1">
    <g id="patch_2">
     <path d="M 342.6048 174.528 
-C 342.6048 149.997199 334.124909 126.204794 318.609671 107.203805 
-C 303.094432 88.202816 281.477888 75.137132 257.442401 70.232483 
+C 342.6048 164.953297 341.312934 155.42222 338.764201 146.192979 
+C 336.215468 136.963738 332.433093 128.120436 327.519546 119.902651 
 L 236.16 174.528 
 z
 " style="fill: #1f77b4"/>
    </g>
    <g id="patch_3">
-    <path d="M 257.442408 70.232486 
-C 257.368335 70.217373 257.294249 70.202336 257.220144 70.187375 
-C 257.146039 70.172415 257.07191 70.157543 256.997773 70.142741 
+    <path d="M 327.519545 119.902656 
+C 320.083053 107.465308 310.184525 96.676512 298.43202 88.199029 
+C 286.679516 79.721546 273.318712 73.732588 259.170344 70.600048 
+C 245.021977 67.467507 230.381805 67.256866 216.149173 69.981062 
+C 201.916539 72.705263 188.388967 78.307352 176.397429 86.44321 
 L 236.16 174.528 
 z
 " style="fill: #ff7f0e"/>
    </g>
    <g id="patch_4">
-    <path d="M 256.997773 70.142741 
-C 256.948009 70.132805 256.898231 70.122908 256.848453 70.113042 
-C 256.798675 70.103176 256.748895 70.093348 256.699103 70.083559 
+    <path d="M 176.397429 86.44321 
+C 176.348411 86.476469 176.299424 86.509759 176.250463 86.5431 
+C 176.201502 86.57644 176.152553 86.609826 176.103643 86.643249 
 L 236.16 174.528 
 z
 " style="fill: #2ca02c"/>
    </g>
    <g id="patch_5">
-    <path d="M 256.699103 70.083559 
-C 241.43597 67.082047 225.698796 67.462457 210.598512 71.197919 
-C 195.498229 74.933381 181.398729 81.933884 169.295311 91.705247 
-C 157.191893 101.476611 147.376231 113.783367 140.541252 127.756743 
-C 133.706273 141.730119 130.01667 157.033394 129.732914 172.586262 
+    <path d="M 176.103643 86.643249 
+C 161.027695 96.945453 148.853224 110.955666 140.755332 127.321595 
+C 132.657441 143.687525 128.905324 161.865111 129.861132 180.099856 
+C 130.816941 198.334602 136.448913 216.020324 146.21343 231.449958 
+C 155.977948 246.879592 169.550427 259.540237 185.620822 268.209841 
 L 236.16 174.528 
 z
 " style="fill: #d62728"/>
    </g>
    <g id="patch_6">
-    <path d="M 129.732914 172.586262 
-C 129.44544 188.342945 132.660708 203.968583 139.145903 218.331657 
-C 145.631097 232.694731 155.225801 245.439969 167.235199 255.644384 
-C 179.244596 265.848798 193.371597 273.259982 208.593249 277.341275 
-C 223.8149 281.422569 239.754672 282.073005 255.258246 279.245488 
+    <path d="M 185.620822 268.209841 
+C 201.835039 276.957033 220.04581 281.346738 238.464689 280.947847 
+C 256.883567 280.548955 274.887225 275.374974 290.707547 265.934025 
+C 306.527869 256.493076 319.629439 243.104692 328.725641 227.083665 
+C 337.821844 211.062637 342.6048 192.951179 342.6048 174.527981 
 L 236.16 174.528 
 z
 " style="fill: #9467bd"/>
    </g>
-   <g id="patch_7">
-    <path d="M 255.258246 279.245488 
-C 279.766378 274.775727 301.944304 261.840931 317.90167 242.71007 
-C 333.859036 223.57921 342.6048 199.440373 342.6048 174.527981 
-L 236.16 174.528 
-z
-" style="fill: #8c564b"/>
-   </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="text_1">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="285.629804" y="136.958484" transform="rotate(-0 285.629804 136.958484)">America</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="297.722521" y="160.351988" transform="rotate(-0 297.722521 160.351988)">America</text>
    </g>
    <g id="text_2">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="339.222091" y="93.197759" transform="rotate(-0 339.222091 93.197759)">21.8%</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="364.415252" y="141.934225" transform="rotate(-0 364.415252 141.934225)">8.6%</text>
    </g>
    <g id="text_3">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="248.796079" y="114.748624" transform="rotate(-0 248.796079 114.748624)">Asia</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="249.966206" y="114.996228" transform="rotate(-0 249.966206 114.996228)">Asia</text>
    </g>
    <g id="text_4">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="262.485165" y="46.927217" transform="rotate(-0 262.485165 46.927217)">0.1%</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="264.922929" y="47.443058" transform="rotate(-0 264.922929 47.443058)">25.9%</text>
    </g>
    <g id="text_5">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="248.573072" y="114.704025" transform="rotate(-0 248.573072 114.704025)">Australia</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: end" x="200.214266" y="124.562067" transform="rotate(-0 200.214266 124.562067)">Australia</text>
    </g>
    <g id="text_6">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="262.020566" y="46.834303" transform="rotate(-0 262.020566 46.834303)">0.0%</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="161.273055" y="67.37189" transform="rotate(-0 161.273055 67.37189)">0.1%</text>
    </g>
    <g id="text_7">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: end" x="196.041174" y="127.659357" transform="rotate(-0 196.041174 127.659357)">Cina</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: end" x="172.380678" y="180.696114" transform="rotate(-0 172.380678 180.696114)">Cina</text>
    </g>
    <g id="text_8">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="152.579113" y="73.824577" transform="rotate(-0 152.579113 73.824577)">27.8%</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="103.286412" y="184.317821" transform="rotate(-0 103.286412 184.317821)">32.6%</text>
    </g>
    <g id="text_9">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: end" x="194.805144" y="226.022849" transform="rotate(-0 194.805144 226.022849)">Europa</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="268.888501" y="232.196628" transform="rotate(-0 268.888501 232.196628)">Europa</text>
    </g>
    <g id="text_10">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="150.004049" y="278.748519" transform="rotate(-0 150.004049 278.748519)">28.2%</text>
-   </g>
-   <g id="text_11">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: start" x="285.205021" y="218.26222" transform="rotate(-0 285.205021 218.26222)">Giappone</text>
-   </g>
-   <g id="text_12">
-    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="338.337128" y="262.580541" transform="rotate(-0 338.337128 262.580541)">22.1%</text>
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="304.344377" y="291.610559" transform="rotate(-0 304.344377 291.610559)">32.9%</text>
    </g>
   </g>
  </g>

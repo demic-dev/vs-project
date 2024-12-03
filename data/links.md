@@ -7,6 +7,7 @@
 
 * https://www.thegamer.com/
 * https://perplexity.ai/ (con i giusti prompt ci fornisce le fonti esatte con quello che cerchiamo)
+* https://steamdb.info/stats/releases/ (releases di Steam anno per anno)
 
 ### "x" ha perso n% di utenti dal lancio
 
