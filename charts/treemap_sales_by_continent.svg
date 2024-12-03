@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-12-03T11:05:41.101659</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 460.8 345.6 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.6 307.584 
+L 80.646422 307.584 
+L 80.646422 303.599599 
+L 57.6 303.599599 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 57.6 303.599599 
+L 80.646422 303.599599 
+L 80.646422 167.018937 
+L 57.6 167.018937 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 57.6 167.018937 
+L 80.646422 167.018937 
+L 80.646422 153.45665 
+L 57.6 153.45665 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 57.6 153.45665 
+L 80.646422 153.45665 
+L 80.646422 146.29239 
+L 57.6 146.29239 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 57.6 146.29239 
+L 80.646422 146.29239 
+L 80.646422 127.059994 
+L 57.6 127.059994 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 57.6 127.059994 
+L 80.646422 127.059994 
+L 80.646422 112.808099 
+L 57.6 112.808099 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 57.6 112.808099 
+L 80.646422 112.808099 
+L 80.646422 41.472 
+L 57.6 41.472 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 80.646422 307.584 
+L 414.72 307.584 
+L 414.72 266.480642 
+L 80.646422 266.480642 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 80.646422 266.480642 
+L 92.630456 266.480642 
+L 92.630456 265.301815 
+L 80.646422 265.301815 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 80.646422 265.301815 
+L 92.630456 265.301815 
+L 92.630456 195.603656 
+L 80.646422 195.603656 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #0000ff"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 80.646422 195.603656 
+L 92.630456 195.603656 
+L 92.630456 161.270314 
+L 80.646422 161.270314 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 80.646422 161.270314 
+L 92.630456 161.270314 
+L 92.630456 148.450568 
+L 80.646422 148.450568 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 80.646422 148.450568 
+L 92.630456 148.450568 
+L 92.630456 143.366876 
+L 80.646422 143.366876 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 80.646422 143.366876 
+L 92.630456 143.366876 
+L 92.630456 59.891175 
+L 80.646422 59.891175 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 80.646422 59.891175 
+L 92.630456 59.891175 
+L 92.630456 41.472 
+L 80.646422 41.472 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 92.630456 266.480642 
+L 104.006262 266.480642 
+L 104.006262 84.704085 
+L 92.630456 84.704085 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 92.630456 84.704085 
+L 104.006262 84.704085 
+L 104.006262 81.987526 
+L 92.630456 81.987526 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 92.630456 81.987526 
+L 104.006262 81.987526 
+L 104.006262 79.81428 
+L 92.630456 79.81428 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 92.630456 79.81428 
+L 104.006262 79.81428 
+L 104.006262 76.321562 
+L 92.630456 76.321562 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 92.630456 76.321562 
+L 104.006262 76.321562 
+L 104.006262 41.472 
+L 92.630456 41.472 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 104.006262 266.480642 
+L 179.277295 266.480642 
+L 179.277295 41.472 
+L 104.006262 41.472 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 179.277295 266.480642 
+L 196.461774 266.480642 
+L 196.461774 243.462258 
+L 179.277295 243.462258 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 196.461774 266.480642 
+L 205.399237 266.480642 
+L 205.399237 243.462258 
+L 196.461774 243.462258 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 205.399237 266.480642 
+L 223.619388 266.480642 
+L 223.619388 243.462258 
+L 205.399237 243.462258 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 223.619388 266.480642 
+L 414.72 266.480642 
+L 414.72 243.462258 
+L 223.619388 243.462258 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #008000"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 179.277295 243.462258 
+L 190.423858 243.462258 
+L 190.423858 239.580859 
+L 179.277295 239.580859 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #ffa500"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 190.423858 243.462258 
+L 315.993301 243.462258 
+L 315.993301 239.580859 
+L 190.423858 239.580859 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 315.993301 243.462258 
+L 414.72 243.462258 
+L 414.72 239.580859 
+L 315.993301 239.580859 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 179.277295 239.580859 
+L 414.72 239.580859 
+L 414.72 165.41426 
+L 179.277295 165.41426 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 179.277295 165.41426 
+L 201.560647 165.41426 
+L 201.560647 162.521746 
+L 179.277295 162.521746 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 179.277295 162.521746 
+L 201.560647 162.521746 
+L 201.560647 127.653079 
+L 179.277295 127.653079 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 179.277295 127.653079 
+L 201.560647 127.653079 
+L 201.560647 69.723545 
+L 179.277295 69.723545 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 179.277295 69.723545 
+L 201.560647 69.723545 
+L 201.560647 41.472 
+L 179.277295 41.472 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #800080"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 201.560647 165.41426 
+L 414.72 165.41426 
+L 414.72 41.472 
+L 201.560647 41.472 
+z
+" clip-path="url(#p7e0f40c760)" style="fill: #ff0000"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="308.4168" transform="rotate(-0 69.123211 308.4168)">America</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="238.134268" transform="rotate(-0 69.123211 238.134268)">America</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="163.062793" transform="rotate(-0 69.123211 163.062793)">America</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="152.69952" transform="rotate(-0 69.123211 152.69952)">America</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="139.501192" transform="rotate(-0 69.123211 139.501192)">America</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="122.759047" transform="rotate(-0 69.123211 122.759047)">America</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="69.123211" y="79.96505" transform="rotate(-0 69.123211 79.96505)">America</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="247.683211" y="289.857321" transform="rotate(-0 247.683211 289.857321)">America</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="268.716228" transform="rotate(-0 86.638439 268.716228)">America</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="233.277736" transform="rotate(-0 86.638439 233.277736)">America</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="181.261985" transform="rotate(-0 86.638439 181.261985)">Europa</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="157.685441" transform="rotate(-0 86.638439 157.685441)">Europa</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="148.733722" transform="rotate(-0 86.638439 148.733722)">Europa</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="104.454026" transform="rotate(-0 86.638439 104.454026)">Europa</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="86.638439" y="53.506588" transform="rotate(-0 86.638439 53.506588)">Europa</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="98.318359" y="178.417363" transform="rotate(-0 98.318359 178.417363)">Europa</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="98.318359" y="86.170806" transform="rotate(-0 98.318359 86.170806)">Europa</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="98.318359" y="83.725903" transform="rotate(-0 98.318359 83.725903)">Europa</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="98.318359" y="80.892921" transform="rotate(-0 98.318359 80.892921)">Europa</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="98.318359" y="61.721781" transform="rotate(-0 98.318359 61.721781)">Europa</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="141.641779" y="156.801321" transform="rotate(-0 141.641779 156.801321)">Europa</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="187.869534" y="257.79645" transform="rotate(-0 187.869534 257.79645)">Europa</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="200.930506" y="257.79645" transform="rotate(-0 200.930506 257.79645)">Europa</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="214.509313" y="257.79645" transform="rotate(-0 214.509313 257.79645)">Europa</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="319.169694" y="257.79645" transform="rotate(-0 319.169694 257.79645)">Europa</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="184.850576" y="244.346558" transform="rotate(-0 184.850576 244.346558)">Australia</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="253.208579" y="244.346558" transform="rotate(-0 253.208579 244.346558)">Giappone</text>
+   </g>
+   <g id="text_28">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="365.35665" y="244.346558" transform="rotate(-0 365.35665 244.346558)">Giappone</text>
+   </g>
+   <g id="text_29">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="296.998647" y="205.322559" transform="rotate(-0 296.998647 205.322559)">Giappone</text>
+   </g>
+   <g id="text_30">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="190.418971" y="166.793003" transform="rotate(-0 190.418971 166.793003)">Asia</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="190.418971" y="147.912413" transform="rotate(-0 190.418971 147.912413)">Giappone</text>
+   </g>
+   <g id="text_32">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="190.418971" y="101.513312" transform="rotate(-0 190.418971 101.513312)">Giappone</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="190.418971" y="58.422772" transform="rotate(-0 190.418971 58.422772)">Giappone</text>
+   </g>
+   <g id="text_34">
+    <text style="font: 10px 'Lato', sans-serif; text-anchor: middle" x="308.140323" y="106.26813" transform="rotate(-0 308.140323 106.26813)">Cina</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7e0f40c760">
+   <rect x="57.6" y="41.472" width="357.12" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>
