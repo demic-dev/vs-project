@@ -1,3 +1,5 @@
-giochi = ['Concord', 'Suicide Squad: Kill The Justice League', 'Skull and Bones', 'Star Wars Outlaws', 'Call of Duty: Black Ops 6', 'Tekken 8', "Dragon's Dogma 2", 'Dragon Age: The Veilguard', 'Helldivers 2', "Senua's Saga: Hellblade II"]
-metascore = [62, 60, 59, 75, 83, 90, 86, 82, 82, 81]
-userscore = [17, 34, 34, 53, 67, 76, 64, 38, 74, 74]
+giochi = ['Concord', 'Suicide Squad: Kill The Justice League', 'Skull and Bones',
+          'Star Wars Outlaws', 'Call of Duty: Black Ops 6', 'Tekken 8',
+          "Dragon's Dogma 2", 'Dragon Age: The Veilguard', 'NBA 2K25', "F1 24"]
+metascore = [62, 60, 59, 75, 83, 90, 86, 82, 79, 72]
+userscore = [17, 34, 34, 53, 67, 76, 64, 38, 58, 44]
