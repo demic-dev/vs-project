@@ -1,28 +1,39 @@
-Grafici da fare (dati trovati|dati strutturati|dati in csv|dati visualizzati|definitivo)
-S: sta per "Stefano", sono i miei commenti
+1) Per curiosità abbiamo raccolto le stime delle vendite dei principali videogiochi usciti quest'anno:
+---GRAFICO--- [FATTO]
+osservazione: pochi giochi dominano il mercato, principalmente Black Myth Wukong (che analizzeremo in seguito). Zoomiamo su quelli nella media
+---GRAFICO--- [FATTO]
+approfondimento degli estremi: partiamo dal fondo (Studiare cosa ha fallito è più divertente) 
 
--Vendite videogiochi 2024:  (X|X|X|X|-)
-S: fatto. mancano ritocchi
+2)Perché Concord ha fallito? C'è chi dice che il suo genere non andava forte
+---SCREENSHOT--- [screen 1-2]
+è così? vediamo il numero di giocatori di giochi simili
+---GRAFICO--- [come va?]
+osservazione: no. C'è chi dice che era un brutto gioco
+---SCREENSHOT--- [screen 3-5]
+è così? vediamo un grafico vendite-valutazione
+---GRAFICO---  [FATTO]
+ma le recensioni sono attendibili? Vediamo HelldiversII
+---GRAFICO--- [come va?]
+sembrebbe di no, ma sovrapponendo più casi vediamo che helldivers è un eccezione
+---GRAFICO--- [come va?]
+osservazione: no. c'è chi dice che costava troppo? aggiungiamo al grafico per genere il prezzo del gioco.
+---GRAFICO--- [in corso]
+osservazione: è l'unico gioco del suo genere uscito quest'anno venduto a prezzo pieno. Forse è questo il problema.
 
--Vendite giochi simili a concord (-|-|-|-|-) (M)
-S: i giochi simili nel campione di partenza non sono abbastanza, devo selezionarne uno nuovo. Ho quasi tutti i dati.
+3)Le ricerche su Black Myth Wukong ci hanno portato a quest'articolo
+---SCREENSHOT--- [screen6-7]
+è vero che i giochi cinesi hanno venduto tanto? vediamo le vendite quest'anno
+---GRAFICO A TORTA--- [FATTO]
+osservazione: vero, ma il grafico nasconde qualcosa
+---GRAFICO AD AREA--- [come va? provo anch'io]
+osservazione: tutte le vendite sono di un singolo gioco! Perché?
+tra il 2000 e il 2015 era proibito possedere console in Cina, quindi il mercato del gaming cinese ha preso la direzione del gaming mobile, in cui è forte tutt'ora
+---GRAFICO--- [DATI trovati. Parliamone]
+in più, anche dopo il 2015, la diffusione del gaming domestico è ostacolata dalla scarsità delle licenze distribuite in cina 
+---GRAFICO--- [FATTO]
+quindi, eventuali sviluppatori di videogiochi AAA cinesi devono puntare al successo, dato che non hanno molte possibilità
 
--Vendite in rapporto alla valutazione: (X|X|X|X|-) (S)
-S: ho i dati. Faccio io
-
--Vendete in rapporto al prezzo (per genere) (-|-|-|-|-) (S)
-S: stesso di due punti fa. devo allargare il campione per genere
-
--oscillazioni recensioni nei primi due mesi (X|X|X|-|-) (M)
-S: CSS mandati. prendi le prime 100 entry. gioco_TOTrecensioni.
-S: Helldivers 2 mostralo a parte, poi sovrapponi tutti i grafici lasciando solo Helldivers colorato diverso
-
--Vendite giochi per continente di origine (X|X|X|X|-) (M)
-M: la treemap non mi convince. neanche il piechart in realtà. devo cercare alternative. volendo i grafici sono nel file charts.ipynb
-
--Giochi Steam approvati in Cina (X|X|X|X|-) (M)
-S: il grafico del sito è bello, possiamo ritoccarlo e usarlo. Fa Michele
-M: link in links.md, sono importanti solamente le prime due categorie. Rifacciamo il grafico noi
-
--incassi giochi mobile (-|-|-|-|)
-S: cerco io.
+4) altri articoli interessanti...
+4.1) abbiamo notato che la differenza tra il metascore di Concord e l'userscore è enorme, e non solo per lui
+---GRAFICO---[in corso]
+le recensioni della critica hanno perso credibilità
