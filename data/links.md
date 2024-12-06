@@ -32,3 +32,4 @@
 * 5 https://www.metacritic.com/game/concord/
 * 6 https://www.dialectinc.com/thoughts/east-west-gaming
 * 7 https://www.globaltimes.cn/page/202408/1318391.shtml
+* 8 https://www.ign.com/articles/concord-is-estimated-to-have-sold-only-25000-units-heres-why-analysts-think-its-failing
