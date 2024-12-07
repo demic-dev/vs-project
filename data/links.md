@@ -25,11 +25,11 @@
 
 ### Link agli screenshots
 
-* 1 https://x.com/SidAlpha/status/1827126801736593613
-* 2 https://www.q-gin.info/concord-nessuno-wishlist-44055/
-* 3 https://www.pcgamer.com/games/fps/concord-review/
-* 4 https://multiplayer.it/recensioni/concord-recensione.html
-* 5 https://www.metacritic.com/game/concord/
-* 6 https://www.dialectinc.com/thoughts/east-west-gaming
-* 7 https://www.globaltimes.cn/page/202408/1318391.shtml
-* 8 https://www.ign.com/articles/concord-is-estimated-to-have-sold-only-25000-units-heres-why-analysts-think-its-failing
+1. https://x.com/SidAlpha/status/1827126801736593613
+2. https://www.q-gin.info/concord-nessuno-wishlist-44055/
+3. https://www.pcgamer.com/games/fps/concord-review/
+4. https://multiplayer.it/recensioni/concord-recensione.html
+5. https://www.metacritic.com/game/concord/
+6. https://www.dialectinc.com/thoughts/east-west-gaming
+7. https://www.globaltimes.cn/page/202408/1318391.shtml
+8. https://www.ign.com/articles/concord-is-estimated-to-have-sold-only-25000-units-heres-why-analysts-think-its-failing
